@@ -1,1 +1,2 @@
 # deeplearning-demo
+本项目主要存贮和深度学习以及神经网络有关的小项目或者demo
